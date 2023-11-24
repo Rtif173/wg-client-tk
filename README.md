@@ -2,6 +2,8 @@
 
 Based on Python and Tkinter. Works only on Linux.
 
+![program screen](https://github.com/Rtif173/wg-client-tk/blob/main/img.png)
+
 ## Instalation
 Download `install.sh`
 
